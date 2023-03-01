@@ -20,7 +20,7 @@ const paddleHeight = 10;
 const paddleWidth = 75;
 const paddleSpeed = 7;
 const brickRowCount = 3;
-const brickColumnCount = 5;
+const brickColumnCount = 8;
 const brickWidth = 75;
 const brickHeight = 20;
 const brickPadding = 10;
@@ -28,6 +28,7 @@ const brickOffsetTop = 30;
 const brickOffsetLeft = 30;
 
 // coordinates of the ball
+canvas.width = (brickColumnCount * (brickWidth + brickPadding)) - brickPadding + 2 * brickOffsetLeft;
 let x = canvas.width / 2;
 let y = canvas.height - 30;
 
