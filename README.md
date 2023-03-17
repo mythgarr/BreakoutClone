@@ -2,7 +2,7 @@
 A simple HTML5+javascript breakout clone with the goal of being easy to read, modify and remix. Features are intentionally missing to encourage independent experimentation.
 
 # Instructions
-[Download|https://github.com/mythgarr/BreakoutClone/archive/refs/heads/main.zip] and extract to your computer, then open game.html in any modern browser.
+[Download](https://github.com/mythgarr/BreakoutClone/archive/refs/heads/main.zip) and extract to your computer, then open game.html in any modern browser.
 Edit script.js and refresh your browser to test changes.
 
 # Ideas for improvement
